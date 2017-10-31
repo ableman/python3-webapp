@@ -1,0 +1,2 @@
+LICENSE
+代码LICENSE
